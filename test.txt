@@ -1,4 +1,7 @@
 1 commit / master
 17.03.2020
+<<<<<<< HEAD
 
 следующая запись для теста revert
+=======
+>>>>>>> parent of fc8876a... пробуем revert
